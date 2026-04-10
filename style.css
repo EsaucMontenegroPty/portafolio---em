@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+footer{
+    background-color: blueviolet;
+    color: blue;
+    padding: 20px;
+}
